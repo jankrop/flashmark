@@ -1,0 +1,20 @@
+{
+  "name": "flashmark",
+  "version": "0.1.1",
+  "description": "A simple, fast, install-and-forget Markdown parser right in your HTML",
+  "main": "flashmark.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jankrop/flashmark.git"
+  },
+  "keywords": [
+    "Markdown",
+    "HTML"
+  ],
+  "author": "Jan Kropiwnicki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jankrop/flashmark/issues"
+  },
+  "homepage": "https://github.com/jankrop/flashmark#readme"
+}
